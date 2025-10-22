@@ -12,3 +12,4 @@ C:\Repositorios\Visual Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\r
 C:\Repositorios\Visual Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.pdb
 C:\Repositorios\Visual Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.genruntimeconfig.cache
 C:\Repositorios\Visual Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\ref\PrimeiroProjeto.dll
+C:\Repositorios\Visual Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.sourcelink.json
