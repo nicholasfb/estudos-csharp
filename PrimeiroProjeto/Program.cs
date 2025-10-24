@@ -1,10 +1,13 @@
 ﻿using PrimeiroProjeto.BitSound;
 using PrimeiroProjeto.Desafios;
+using PrimeiroProjeto.DesafiosModuloQuatro;
 using PrimeiroProjeto.DesafiosModuloTres;
 using PrimeiroProjeto.DesafiosModuloUm;
 using PrimeiroProjeto.Exercicios;
 
-//BitSoundProject.Run();
+BitSoundProject.Run();
+
+//DesafiosModuloUm//
 //DesafioString.Run();
 //ExercicioString.Run();
 
@@ -15,4 +18,16 @@ using PrimeiroProjeto.Exercicios;
 //DesafiosModuloTrês//
 //OperacaoMatematica.Run(5.0, 10.0);
 //ListaBandas.RegistraBandasFavoritas();
-SomaInteirosLista.Run();
+//SomaInteirosLista.Run();
+
+//DesafiosModuloQuatro//
+// DicionarioAluno.DicionarioAlunos();
+//ItensEstoque.Run();
+//SistemaLogin.Run();
+//ProgramaQuiz.Run();
+
+//Exercicios//
+//Dicionarios
+//ExercicioDicionario.mediaNotaDicionario();
+//DicionarioCarros.Run();
+
