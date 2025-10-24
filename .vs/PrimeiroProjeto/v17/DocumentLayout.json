@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\primeiroprojeto\\exercicios\\dicionariocarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\exercicios\\dicionariocarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\primeiroprojeto\\exercicios\\exerciciodicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\exercicios\\exerciciodicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\primeiroprojeto\\desafiosmoduloquatro\\dicionarioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\desafiosmoduloquatro\\dicionarioaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\primeiroprojeto\\bitsound\\bitsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\bitsound\\bitsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,33 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DicionarioCarros.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\Exercicios\\DicionarioCarros.cs",
-              "RelativeDocumentMoniker": "PrimeiroProjeto\\Exercicios\\DicionarioCarros.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\Exercicios\\DicionarioCarros.cs",
-              "RelativeToolTip": "PrimeiroProjeto\\Exercicios\\DicionarioCarros.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAByAAAAAAAAAA==",
+              "Title": "BitSound.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\BitSound\\BitSound.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjeto\\BitSound\\BitSound.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\BitSound\\BitSound.cs",
+              "RelativeToolTip": "PrimeiroProjeto\\BitSound\\BitSound.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T02:26:26.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DicionarioAluno.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\DesafiosModuloQuatro\\DicionarioAluno.cs",
-              "RelativeDocumentMoniker": "PrimeiroProjeto\\DesafiosModuloQuatro\\DicionarioAluno.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\DesafiosModuloQuatro\\DicionarioAluno.cs",
-              "RelativeToolTip": "PrimeiroProjeto\\DesafiosModuloQuatro\\DicionarioAluno.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T02:22:07.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T02:38:26.323Z"
             },
             {
               "$type": "Document",
@@ -62,22 +40,9 @@
               "RelativeDocumentMoniker": "PrimeiroProjeto\\Program.cs",
               "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
               "RelativeToolTip": "PrimeiroProjeto\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T20:13:20.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExercicioDicionario.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\Exercicios\\ExercicioDicionario.cs",
-              "RelativeDocumentMoniker": "PrimeiroProjeto\\Exercicios\\ExercicioDicionario.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\Exercicios\\ExercicioDicionario.cs",
-              "RelativeToolTip": "PrimeiroProjeto\\Exercicios\\ExercicioDicionario.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:36:33.576Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PrimeiroProjeto.DesafiosModuloQuatro;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -66,6 +67,8 @@ Selecione uma opção:
                             break;
                         case 4:
                             Console.WriteLine("Você escolheu a opção " + opcaoEscolhida);
+                            Thread.Sleep(1000);
+                            CalculaMediaBanda();
                             break;
                         case 5:
                             Console.WriteLine("Você escolheu a opção " + opcaoEscolhida);
@@ -119,8 +122,10 @@ Selecione uma opção:
                     }
                     */
 
-                    foreach (string banda in bandasRegistradas.Keys) {
-                        Console.WriteLine($"Banda - {banda}");
+                    foreach (KeyValuePair<string, List<int>> kvp in bandasRegistradas) {
+                        List<int> valoresAvaliacoes = kvp.Value;
+                        string valoresAvaliacoesFormatado = string.Join(", ", valoresAvaliacoes);
+                        Console.WriteLine($"Banda - {kvp.Key}. Avaliações [{valoresAvaliacoesFormatado}]");
                         Thread.Sleep(1000);
                     }
                     Console.WriteLine("Pressione qualquer tecla para voltar ao menu principal");
@@ -150,6 +155,49 @@ Selecione uma opção:
                     Console.ReadKey();
                     Console.Clear();
                 }
+            }
+
+            void CalculaMediaBanda() {
+                Console.Clear();
+                exibirTituloDaOpcao("Cálculo de Avaliações de Banda");
+
+                Console.Write("Qual é a banda que deseja verificar a média? ");
+                string bandaEscolhida = Console.ReadLine()!;
+
+                if (bandasRegistradas.TryGetValue(bandaEscolhida, out List<int> avaliacoes))
+                {
+                    Console.WriteLine($"A banda {bandaEscolhida} possui a média de avaliações de {avaliacoes.Average():F1}");
+                    Console.WriteLine("Pressione qualquer tecla para voltar ao menu");
+                    Console.ReadKey();
+                    Console.Clear();
+                }
+                else
+                {
+                    Console.WriteLine($"A banda {bandaEscolhida} não está disponível no dicionário!");
+                    Console.WriteLine("Pressione qualquer tecla para voltar ao menu");
+                    Console.ReadKey();
+                    Console.Clear();
+                }
+
+
+                /*foreach (KeyValuePair<string, List<int>> kvp in bandasRegistradas)
+                {
+                    if (kvp.Key.Equals(bandaEscolhida))
+                    {
+                        List<int> qtdAvaliacoes = kvp.Value;
+                        double media = qtdAvaliacoes.Average();
+                        Console.WriteLine($"A banda {kvp.Key} possui a média de {media:F1}");
+                        Console.WriteLine("Digite uma tecla para voltar ao menu principal.");
+                        Console.ReadKey();
+                        Console.Clear();
+                    }
+                    else {
+                        Console.WriteLine("Essa banda não existe!");
+                        Console.WriteLine("Pressione qualquer tecla para voltar ao menu.");
+                        Console.ReadKey();
+                        Console.Clear();
+                    }
+                }*/
             }
 
             void RemoverBanda()
