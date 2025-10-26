@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\bitsoundpoo\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|solutionrelative:bitsoundpoo\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\primeiroprojeto\\bitsound\\bitsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}|PrimeiroProjeto\\PrimeiroProjeto.csproj|solutionrelative:primeiroprojeto\\bitsound\\bitsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\bitsoundpoo\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|solutionrelative:bitsoundpoo\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\bitsoundpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|solutionrelative:bitsoundpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BitSound.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\BitSound\\BitSound.cs",
-              "RelativeDocumentMoniker": "PrimeiroProjeto\\BitSound\\BitSound.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\BitSound\\BitSound.cs",
-              "RelativeToolTip": "PrimeiroProjeto\\BitSound\\BitSound.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIEAAAAVAAAAAAAAAA==",
+              "Title": "Episodio.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Episodio.cs",
+              "RelativeDocumentMoniker": "BitSoundPOO\\Episodio.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Episodio.cs",
+              "RelativeToolTip": "BitSoundPOO\\Episodio.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T02:38:26.323Z",
+              "WhenOpened": "2025-10-26T16:07:32.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
-              "RelativeDocumentMoniker": "PrimeiroProjeto\\Program.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
-              "RelativeToolTip": "PrimeiroProjeto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Podcast.cs",
+              "RelativeDocumentMoniker": "BitSoundPOO\\Podcast.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Podcast.cs",
+              "RelativeToolTip": "BitSoundPOO\\Podcast.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:13:20.69Z",
+              "WhenOpened": "2025-10-26T16:04:57.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Program.cs",
+              "RelativeDocumentMoniker": "BitSoundPOO\\Program.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Program.cs",
+              "RelativeToolTip": "BitSoundPOO\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:48:43.532Z",
               "EditorCaption": ""
             }
           ]

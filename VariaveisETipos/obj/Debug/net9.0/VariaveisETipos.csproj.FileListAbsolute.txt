@@ -1,0 +1,15 @@
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\bin\Debug\net9.0\VariaveisETipos.exe
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\bin\Debug\net9.0\VariaveisETipos.deps.json
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\bin\Debug\net9.0\VariaveisETipos.runtimeconfig.json
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\bin\Debug\net9.0\VariaveisETipos.dll
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\bin\Debug\net9.0\VariaveisETipos.pdb
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.AssemblyInfoInputs.cache
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.AssemblyInfo.cs
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.csproj.CoreCompileInputs.cache
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.sourcelink.json
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.dll
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\obj\Debug\net9.0\refint\VariaveisETipos.dll
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.pdb
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\obj\Debug\net9.0\VariaveisETipos.genruntimeconfig.cache
+C:\Repositorios\Visual Studio\PrimeiroProjeto\VariaveisETipos\obj\Debug\net9.0\ref\VariaveisETipos.dll

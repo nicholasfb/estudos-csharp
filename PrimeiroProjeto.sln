@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroProjeto", "PrimeiroProjeto\PrimeiroProjeto.csproj", "{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariaveisETipos", "VariaveisETipos\VariaveisETipos.csproj", "{E1A9EE84-89F1-4CEA-93EC-506237BA015B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitSoundPOO", "BitSoundPOO\BitSoundPOO.csproj", "{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9FDAF7F-FEB3-4BA6-B82F-3A2F61A50D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A9EE84-89F1-4CEA-93EC-506237BA015B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A9EE84-89F1-4CEA-93EC-506237BA015B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A9EE84-89F1-4CEA-93EC-506237BA015B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A9EE84-89F1-4CEA-93EC-506237BA015B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

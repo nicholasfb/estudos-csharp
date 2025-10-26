@@ -1,0 +1,15 @@
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\bin\Debug\net9.0\BitSoundPOO.exe
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\bin\Debug\net9.0\BitSoundPOO.deps.json
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\bin\Debug\net9.0\BitSoundPOO.runtimeconfig.json
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\bin\Debug\net9.0\BitSoundPOO.dll
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\bin\Debug\net9.0\BitSoundPOO.pdb
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\obj\Debug\net9.0\BitSoundPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\obj\Debug\net9.0\BitSoundPOO.AssemblyInfoInputs.cache
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\obj\Debug\net9.0\BitSoundPOO.AssemblyInfo.cs
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\obj\Debug\net9.0\BitSoundPOO.csproj.CoreCompileInputs.cache
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\obj\Debug\net9.0\BitSoundPOO.sourcelink.json
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\obj\Debug\net9.0\BitSoundPOO.dll
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\obj\Debug\net9.0\refint\BitSoundPOO.dll
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\obj\Debug\net9.0\BitSoundPOO.pdb
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\obj\Debug\net9.0\BitSoundPOO.genruntimeconfig.cache
+C:\Repositorios\Visual Studio\PrimeiroProjeto\BitSoundPOO\obj\Debug\net9.0\ref\BitSoundPOO.dll
