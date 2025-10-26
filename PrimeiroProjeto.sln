@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariaveisETipos", "Variavei
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitSoundPOO", "BitSoundPOO\BitSoundPOO.csproj", "{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaEInterface", "HerancaEInterface\HerancaEInterface.csproj", "{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

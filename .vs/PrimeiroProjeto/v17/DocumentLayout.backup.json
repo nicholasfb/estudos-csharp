@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\bitsoundpoo\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|solutionrelative:bitsoundpoo\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\herancaeinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|solutionrelative:herancaeinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\bitsoundpoo\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|solutionrelative:bitsoundpoo\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\herancaeinterface\\exercicios\\computador\\placamae.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|solutionrelative:herancaeinterface\\exercicios\\computador\\placamae.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\bitsoundpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CB7364E-4ED4-4709-B3C5-B80FDD19643E}|BitSoundPOO\\BitSoundPOO.csproj|solutionrelative:bitsoundpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\herancaeinterface\\exercicios\\computador\\processador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|solutionrelative:herancaeinterface\\exercicios\\computador\\processador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\herancaeinterface\\exercicios\\computador\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|solutionrelative:herancaeinterface\\exercicios\\computador\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Episodio.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Episodio.cs",
-              "RelativeDocumentMoniker": "BitSoundPOO\\Episodio.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Episodio.cs",
-              "RelativeToolTip": "BitSoundPOO\\Episodio.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Computador.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\Computador.cs",
+              "RelativeDocumentMoniker": "HerancaEInterface\\Exercicios\\Computador\\Computador.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\Computador.cs",
+              "RelativeToolTip": "HerancaEInterface\\Exercicios\\Computador\\Computador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T16:07:32.382Z",
+              "WhenOpened": "2025-10-26T21:54:03.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Podcast.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Podcast.cs",
-              "RelativeDocumentMoniker": "BitSoundPOO\\Podcast.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Podcast.cs",
-              "RelativeToolTip": "BitSoundPOO\\Podcast.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PlacaMae.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\PlacaMae.cs",
+              "RelativeDocumentMoniker": "HerancaEInterface\\Exercicios\\Computador\\PlacaMae.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\PlacaMae.cs",
+              "RelativeToolTip": "HerancaEInterface\\Exercicios\\Computador\\PlacaMae.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T16:04:57.594Z",
+              "WhenOpened": "2025-10-26T21:53:08.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Program.cs",
-              "RelativeDocumentMoniker": "BitSoundPOO\\Program.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\BitSoundPOO\\Program.cs",
-              "RelativeToolTip": "BitSoundPOO\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Title": "Processador.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\Processador.cs",
+              "RelativeDocumentMoniker": "HerancaEInterface\\Exercicios\\Computador\\Processador.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\Processador.cs",
+              "RelativeToolTip": "HerancaEInterface\\Exercicios\\Computador\\Processador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T22:48:43.532Z",
+              "WhenOpened": "2025-10-26T21:52:28.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaEInterface\\Program.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Program.cs",
+              "RelativeToolTip": "HerancaEInterface\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:47:42.941Z",
               "EditorCaption": ""
             }
           ]

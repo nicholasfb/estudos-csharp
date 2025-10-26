@@ -1,0 +1,15 @@
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\bin\Debug\net9.0\HerancaEInterface.exe
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\bin\Debug\net9.0\HerancaEInterface.deps.json
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\bin\Debug\net9.0\HerancaEInterface.runtimeconfig.json
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\bin\Debug\net9.0\HerancaEInterface.dll
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\bin\Debug\net9.0\HerancaEInterface.pdb
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\obj\Debug\net9.0\HerancaEInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\obj\Debug\net9.0\HerancaEInterface.AssemblyInfoInputs.cache
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\obj\Debug\net9.0\HerancaEInterface.AssemblyInfo.cs
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\obj\Debug\net9.0\HerancaEInterface.csproj.CoreCompileInputs.cache
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\obj\Debug\net9.0\HerancaEInterface.sourcelink.json
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\obj\Debug\net9.0\HerancaEInterface.dll
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\obj\Debug\net9.0\refint\HerancaEInterface.dll
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\obj\Debug\net9.0\HerancaEInterface.pdb
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\obj\Debug\net9.0\HerancaEInterface.genruntimeconfig.cache
+C:\Repositorios\Visual Studio\PrimeiroProjeto\HerancaEInterface\obj\Debug\net9.0\ref\HerancaEInterface.dll
