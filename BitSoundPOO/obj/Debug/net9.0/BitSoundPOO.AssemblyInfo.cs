@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitSoundPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0963d8267e83b0f38a20c3acab03ac9c479dfbd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+253501e190e3d6b71ddce37dd99d3004b952298e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitSoundPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitSoundPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

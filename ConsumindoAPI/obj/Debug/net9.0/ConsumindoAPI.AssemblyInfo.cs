@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HerancaEInterface")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConsumindoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+253501e190e3d6b71ddce37dd99d3004b952298e")]
-[assembly: System.Reflection.AssemblyProductAttribute("HerancaEInterface")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HerancaEInterface")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConsumindoAPI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConsumindoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

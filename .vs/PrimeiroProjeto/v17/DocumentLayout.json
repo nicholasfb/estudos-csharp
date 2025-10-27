@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\herancaeinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|solutionrelative:herancaeinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\consumindoapi\\models\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|solutionrelative:consumindoapi\\models\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\herancaeinterface\\exercicios\\computador\\placamae.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|solutionrelative:herancaeinterface\\exercicios\\computador\\placamae.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\consumindoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|solutionrelative:consumindoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\herancaeinterface\\exercicios\\computador\\processador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|solutionrelative:herancaeinterface\\exercicios\\computador\\processador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\consumindoapi\\filters\\linqfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|solutionrelative:consumindoapi\\filters\\linqfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\herancaeinterface\\exercicios\\computador\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA65DC0E-8535-43FB-A726-CB7D67D4B77B}|HerancaEInterface\\HerancaEInterface.csproj|solutionrelative:herancaeinterface\\exercicios\\computador\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\consumindoapi\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|solutionrelative:consumindoapi\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\consumindoapi\\filters\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|solutionrelative:consumindoapi\\filters\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,59 +29,72 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 210,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Computador.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\Computador.cs",
-              "RelativeDocumentMoniker": "HerancaEInterface\\Exercicios\\Computador\\Computador.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\Computador.cs",
-              "RelativeToolTip": "HerancaEInterface\\Exercicios\\Computador\\Computador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MusicasPreferidas.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Models\\MusicasPreferidas.cs",
+              "RelativeDocumentMoniker": "ConsumindoAPI\\Models\\MusicasPreferidas.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Models\\MusicasPreferidas.cs",
+              "RelativeToolTip": "ConsumindoAPI\\Models\\MusicasPreferidas.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T21:54:03.828Z",
+              "WhenOpened": "2025-10-27T03:01:25.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Models\\Musica.cs",
+              "RelativeDocumentMoniker": "ConsumindoAPI\\Models\\Musica.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Models\\Musica.cs",
+              "RelativeToolTip": "ConsumindoAPI\\Models\\Musica.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:26:27.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinqOrder.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Filters\\LinqOrder.cs",
+              "RelativeDocumentMoniker": "ConsumindoAPI\\Filters\\LinqOrder.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Filters\\LinqOrder.cs",
+              "RelativeToolTip": "ConsumindoAPI\\Filters\\LinqOrder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:07:51.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlacaMae.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\PlacaMae.cs",
-              "RelativeDocumentMoniker": "HerancaEInterface\\Exercicios\\Computador\\PlacaMae.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\PlacaMae.cs",
-              "RelativeToolTip": "HerancaEInterface\\Exercicios\\Computador\\PlacaMae.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumindoAPI\\Program.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Program.cs",
+              "RelativeToolTip": "ConsumindoAPI\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwB4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T21:53:08.778Z",
+              "WhenOpened": "2025-10-27T01:03:57.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Processador.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\Processador.cs",
-              "RelativeDocumentMoniker": "HerancaEInterface\\Exercicios\\Computador\\Processador.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Exercicios\\Computador\\Processador.cs",
-              "RelativeToolTip": "HerancaEInterface\\Exercicios\\Computador\\Processador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Title": "LinqFilters.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Filters\\LinqFilters.cs",
+              "RelativeDocumentMoniker": "ConsumindoAPI\\Filters\\LinqFilters.cs",
+              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Filters\\LinqFilters.cs",
+              "RelativeToolTip": "ConsumindoAPI\\Filters\\LinqFilters.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwD0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T21:52:28.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Program.cs",
-              "RelativeDocumentMoniker": "HerancaEInterface\\Program.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\HerancaEInterface\\Program.cs",
-              "RelativeToolTip": "HerancaEInterface\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T17:47:42.941Z",
+              "WhenOpened": "2025-10-27T01:00:15.353Z",
               "EditorCaption": ""
             }
           ]
