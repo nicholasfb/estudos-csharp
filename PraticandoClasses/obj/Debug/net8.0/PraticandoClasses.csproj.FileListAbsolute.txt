@@ -1,0 +1,15 @@
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\bin\Debug\net8.0\PraticandoClasses.exe
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\bin\Debug\net8.0\PraticandoClasses.deps.json
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\bin\Debug\net8.0\PraticandoClasses.runtimeconfig.json
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\bin\Debug\net8.0\PraticandoClasses.dll
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\bin\Debug\net8.0\PraticandoClasses.pdb
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\obj\Debug\net8.0\PraticandoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\obj\Debug\net8.0\PraticandoClasses.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\obj\Debug\net8.0\PraticandoClasses.AssemblyInfo.cs
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\obj\Debug\net8.0\PraticandoClasses.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\obj\Debug\net8.0\PraticandoClasses.sourcelink.json
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\obj\Debug\net8.0\PraticandoClasses.dll
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\obj\Debug\net8.0\refint\PraticandoClasses.dll
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\obj\Debug\net8.0\PraticandoClasses.pdb
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\obj\Debug\net8.0\PraticandoClasses.genruntimeconfig.cache
+C:\Users\nicho\Desktop\Taas Estudos\CSharp\nicholasfb\estudos-csharp\PraticandoClasses\obj\Debug\net8.0\ref\PraticandoClasses.dll

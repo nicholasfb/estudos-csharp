@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\",
+  "WorkspaceRootPath": "C:\\Users\\nicho\\Desktop\\Taas Estudos\\CSharp\\nicholasfb\\estudos-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\consumindoapi\\models\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|solutionrelative:consumindoapi\\models\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87F04FDC-265D-4301-A453-38E19FFCDF35}|PraticandoClasses\\PraticandoClasses.csproj|c:\\users\\nicho\\desktop\\taas estudos\\csharp\\nicholasfb\\estudos-csharp\\praticandoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F04FDC-265D-4301-A453-38E19FFCDF35}|PraticandoClasses\\PraticandoClasses.csproj|solutionrelative:praticandoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\consumindoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|solutionrelative:consumindoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87F04FDC-265D-4301-A453-38E19FFCDF35}|PraticandoClasses\\PraticandoClasses.csproj|c:\\users\\nicho\\desktop\\taas estudos\\csharp\\nicholasfb\\estudos-csharp\\praticandoclasses\\produtodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F04FDC-265D-4301-A453-38E19FFCDF35}|PraticandoClasses\\PraticandoClasses.csproj|solutionrelative:praticandoclasses\\produtodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\consumindoapi\\filters\\linqfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|solutionrelative:consumindoapi\\filters\\linqfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87F04FDC-265D-4301-A453-38E19FFCDF35}|PraticandoClasses\\PraticandoClasses.csproj|c:\\users\\nicho\\desktop\\taas estudos\\csharp\\nicholasfb\\estudos-csharp\\praticandoclasses\\informacaotecnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F04FDC-265D-4301-A453-38E19FFCDF35}|PraticandoClasses\\PraticandoClasses.csproj|solutionrelative:praticandoclasses\\informacaotecnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\consumindoapi\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|solutionrelative:consumindoapi\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|c:\\repositorios\\visual studio\\primeiroprojeto\\consumindoapi\\filters\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BBE2A4-6F7F-4DC1-931D-D7B742040D17}|ConsumindoAPI\\ConsumindoAPI.csproj|solutionrelative:consumindoapi\\filters\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87F04FDC-265D-4301-A453-38E19FFCDF35}|PraticandoClasses\\PraticandoClasses.csproj|c:\\users\\nicho\\desktop\\taas estudos\\csharp\\nicholasfb\\estudos-csharp\\praticandoclasses\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F04FDC-265D-4301-A453-38E19FFCDF35}|PraticandoClasses\\PraticandoClasses.csproj|solutionrelative:praticandoclasses\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MusicasPreferidas.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Models\\MusicasPreferidas.cs",
-              "RelativeDocumentMoniker": "ConsumindoAPI\\Models\\MusicasPreferidas.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Models\\MusicasPreferidas.cs",
-              "RelativeToolTip": "ConsumindoAPI\\Models\\MusicasPreferidas.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T03:01:25.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Models\\Musica.cs",
-              "RelativeDocumentMoniker": "ConsumindoAPI\\Models\\Musica.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Models\\Musica.cs",
-              "RelativeToolTip": "ConsumindoAPI\\Models\\Musica.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T01:26:27.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LinqOrder.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Filters\\LinqOrder.cs",
-              "RelativeDocumentMoniker": "ConsumindoAPI\\Filters\\LinqOrder.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Filters\\LinqOrder.cs",
-              "RelativeToolTip": "ConsumindoAPI\\Filters\\LinqOrder.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T01:07:51.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ConsumindoAPI\\Program.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Program.cs",
-              "RelativeToolTip": "ConsumindoAPI\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwB4AAAAzAAAAAAAAAA==",
+              "Title": "ProdutoDigital.cs",
+              "DocumentMoniker": "C:\\Users\\nicho\\Desktop\\Taas Estudos\\CSharp\\nicholasfb\\estudos-csharp\\PraticandoClasses\\ProdutoDigital.cs",
+              "RelativeDocumentMoniker": "PraticandoClasses\\ProdutoDigital.cs",
+              "ToolTip": "C:\\Users\\nicho\\Desktop\\Taas Estudos\\CSharp\\nicholasfb\\estudos-csharp\\PraticandoClasses\\ProdutoDigital.cs",
+              "RelativeToolTip": "PraticandoClasses\\ProdutoDigital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T01:03:57.59Z",
+              "WhenOpened": "2025-11-17T00:58:02.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LinqFilters.cs",
-              "DocumentMoniker": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Filters\\LinqFilters.cs",
-              "RelativeDocumentMoniker": "ConsumindoAPI\\Filters\\LinqFilters.cs",
-              "ToolTip": "C:\\Repositorios\\Visual Studio\\PrimeiroProjeto\\ConsumindoAPI\\Filters\\LinqFilters.cs",
-              "RelativeToolTip": "ConsumindoAPI\\Filters\\LinqFilters.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAYwD0AAAANAAAAAAAAAA==",
+              "Title": "InformacaoTecnica.cs",
+              "DocumentMoniker": "C:\\Users\\nicho\\Desktop\\Taas Estudos\\CSharp\\nicholasfb\\estudos-csharp\\PraticandoClasses\\InformacaoTecnica.cs",
+              "RelativeDocumentMoniker": "PraticandoClasses\\InformacaoTecnica.cs",
+              "ToolTip": "C:\\Users\\nicho\\Desktop\\Taas Estudos\\CSharp\\nicholasfb\\estudos-csharp\\PraticandoClasses\\InformacaoTecnica.cs",
+              "RelativeToolTip": "PraticandoClasses\\InformacaoTecnica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T01:00:15.353Z",
+              "WhenOpened": "2025-11-17T00:57:16.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\nicho\\Desktop\\Taas Estudos\\CSharp\\nicholasfb\\estudos-csharp\\PraticandoClasses\\Consulta.cs",
+              "RelativeDocumentMoniker": "PraticandoClasses\\Consulta.cs",
+              "ToolTip": "C:\\Users\\nicho\\Desktop\\Taas Estudos\\CSharp\\nicholasfb\\estudos-csharp\\PraticandoClasses\\Consulta.cs",
+              "RelativeToolTip": "PraticandoClasses\\Consulta.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T00:53:02.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicho\\Desktop\\Taas Estudos\\CSharp\\nicholasfb\\estudos-csharp\\PraticandoClasses\\Program.cs",
+              "RelativeDocumentMoniker": "PraticandoClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\nicho\\Desktop\\Taas Estudos\\CSharp\\nicholasfb\\estudos-csharp\\PraticandoClasses\\Program.cs",
+              "RelativeToolTip": "PraticandoClasses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T23:01:54.945Z",
               "EditorCaption": ""
             }
           ]
